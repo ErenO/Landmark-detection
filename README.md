@@ -25,7 +25,9 @@
 - https://github.com/mbadry1/DeepLearning.ai-Summary
 - https://github.com/nsanghi/Adv-ml-Computer-vision
 - https://github.com/nsanghi/Adv-ml-Computer-vision/tree/master/wk2-facial-keypoints
+- https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Yan_A.pdf
 
+seperate
 - https://github.com/hafizur-rahman/computer-vision/blob/master/facial-keypoints/Facial%20keypoints.ipynb
 - https://github.com/Nabarun21/deep_learning_in_computer_vision
 - https://github.com/hafizur-rahman/computer-vision

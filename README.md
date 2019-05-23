@@ -1,5 +1,7 @@
 # Landmark-detection
 
+![alt text](https://github.com/ErenO/Landmark-detection/blob/master/img.png)
+
 - https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/
 - https://www.kaggle.com/c/facial-keypoints-detection/discussion/19294
 - https://stackoverflow.com/questions/50316600/training-a-model-to-achieve-dlibs-facial-landmarks-like-feature-points-for-hand

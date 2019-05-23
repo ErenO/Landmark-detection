@@ -1,3 +1,3 @@
-# Landmark-detection
+# landmark-detection
 
-![alt text](https://github.com/ErenO/Landmark-detection/blob/master/img.png)
+![alt text](https://github.com/ErenO/landmark-detection/blob/master/img.png)
